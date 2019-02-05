@@ -1,6 +1,6 @@
 const Web3 = require('web3');
 const Tx = require('ethereumjs-tx')
-
+// rinkeby walletprovider
 const HDWalletProvider = require('truffle-hdwallet-provider');
 
 const mnemonic = "spawn ten shop scrap attitude second spoon animal tomorrow can quote ahead";
